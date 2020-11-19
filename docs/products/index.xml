@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on Kaya Mania Berlin</title>
-    <link>/products/</link>
+    <link>https://piccolo-portfolios.github.io/kayaberlin/products/</link>
     <description>Recent content in Products on Kaya Mania Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://piccolo-portfolios.github.io/kayaberlin/products/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Taba Cream</title>
-      <link>/products/taba-cream.1/</link>
+      <link>https://piccolo-portfolios.github.io/kayaberlin/products/taba-cream.1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/taba-cream.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Cream</title>
-      <link>/products/taba-cream.2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/products/taba-cream.2/</guid>
+      <guid>https://piccolo-portfolios.github.io/kayaberlin/products/taba-cream.1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Cream</title>
-      <link>/products/taba-cream/</link>
+      <link>https://piccolo-portfolios.github.io/kayaberlin/products/taba-cream.2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/taba-cream/</guid>
+      <guid>https://piccolo-portfolios.github.io/kayaberlin/products/taba-cream.2/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Taba Cream</title>
+      <link>https://piccolo-portfolios.github.io/kayaberlin/products/taba-cream/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://piccolo-portfolios.github.io/kayaberlin/products/taba-cream/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Facewash</title>
-      <link>/products/taba-facewash.1/</link>
+      <link>https://piccolo-portfolios.github.io/kayaberlin/products/taba-facewash.1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/taba-facewash.1/</guid>
+      <guid>https://piccolo-portfolios.github.io/kayaberlin/products/taba-facewash.1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Facewash</title>
-      <link>/products/taba-facewash.2/</link>
+      <link>https://piccolo-portfolios.github.io/kayaberlin/products/taba-facewash.2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/taba-facewash.2/</guid>
+      <guid>https://piccolo-portfolios.github.io/kayaberlin/products/taba-facewash.2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Facewash</title>
-      <link>/products/taba-facewash/</link>
+      <link>https://piccolo-portfolios.github.io/kayaberlin/products/taba-facewash/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/taba-facewash/</guid>
+      <guid>https://piccolo-portfolios.github.io/kayaberlin/products/taba-facewash/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Shampoo</title>
-      <link>/products/taba-shampoo.1/</link>
+      <link>https://piccolo-portfolios.github.io/kayaberlin/products/taba-shampoo.1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/taba-shampoo.1/</guid>
+      <guid>https://piccolo-portfolios.github.io/kayaberlin/products/taba-shampoo.1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Shampoo</title>
-      <link>/products/taba-shampoo.2/</link>
+      <link>https://piccolo-portfolios.github.io/kayaberlin/products/taba-shampoo.2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/taba-shampoo.2/</guid>
+      <guid>https://piccolo-portfolios.github.io/kayaberlin/products/taba-shampoo.2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Taba Shampoo</title>
-      <link>/products/taba-shampoo/</link>
+      <link>https://piccolo-portfolios.github.io/kayaberlin/products/taba-shampoo/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/taba-shampoo/</guid>
+      <guid>https://piccolo-portfolios.github.io/kayaberlin/products/taba-shampoo/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
