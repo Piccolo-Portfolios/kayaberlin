@@ -3,81 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/faq/</loc>
+    <loc>/faq/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/</loc>
+    <loc>/products/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/taba-cream.1/</loc>
+    <loc>/products/taba-cream.1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/taba-cream.2/</loc>
+    <loc>/products/taba-cream.2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/taba-cream/</loc>
+    <loc>/products/taba-cream/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/taba-facewash.1/</loc>
+    <loc>/products/taba-facewash.1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/taba-facewash.2/</loc>
+    <loc>/products/taba-facewash.2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/taba-facewash/</loc>
+    <loc>/products/taba-facewash/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/taba-shampoo.1/</loc>
+    <loc>/products/taba-shampoo.1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/taba-shampoo.2/</loc>
+    <loc>/products/taba-shampoo.2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/products/taba-shampoo/</loc>
+    <loc>/products/taba-shampoo/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/terms-conditions/</loc>
+    <loc>/terms-conditions/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
