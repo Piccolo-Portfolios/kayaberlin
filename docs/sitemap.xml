@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://piccolo-portfolios.github.io/kayaberlin/faq/</loc>
-    <lastmod>2020-11-19T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://piccolo-portfolios.github.io/kayaberlin/</loc>
-    <lastmod>2020-11-19T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://piccolo-portfolios.github.io/kayaberlin/products/coconut-kaya/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
@@ -23,7 +13,17 @@
   </url>
   
   <url>
+    <loc>https://piccolo-portfolios.github.io/kayaberlin/faq/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://piccolo-portfolios.github.io/kayaberlin/products/gift-basket/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://piccolo-portfolios.github.io/kayaberlin/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   

@@ -1,6 +1,6 @@
 ############################# contact info ################
 contact:
-  enable : false
+  enable : true
   # office
   office:
     title : "Central Office"

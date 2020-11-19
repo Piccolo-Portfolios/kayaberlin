@@ -35,7 +35,7 @@ publishDir = "docs"
 
   [[menu.main]]
   name = "Products"
-  URL = "Products"
+  URL = "products"
   weight = 1
 
   [[menu.main]]
@@ -44,7 +44,7 @@ publishDir = "docs"
   weight = 2
 
 
-  ############# footer menu #############
+############# footer menu #############
   
 
 
