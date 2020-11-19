@@ -35,7 +35,7 @@ publishDir = "docs"
 
   [[menu.main]]
   name = "Products"
-  URL = "products"
+  URL = "Products"
   weight = 1
 
   [[menu.main]]
@@ -43,26 +43,9 @@ publishDir = "docs"
   URL = "faq"
   weight = 2
 
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
 
   ############# footer menu #############
-  [[menu.footer]]
-  name = "Products"
-  URL = "products"
-  weight = 1
-
-  [[menu.footer]]
-  name = "FAQ"
-  URL = "faq"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Terms & Conditions"
-  URL = "terms-conditions"
-  weight = 3
+  
 
 
 #################### default parameters ################################
@@ -76,8 +59,8 @@ author = "Kaya Mania"
 
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "52.4965841"
+mapLongitude = "13.3758186"
 mapMarker = "images/marker.png"
 
 # Google Analitycs
@@ -89,7 +72,7 @@ email = "contact@kayamania.de"
 location = "Kreuzberg, Berlin"
 
 # copyright
-copyright = "| Copyright &copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2020 Kaya Mania. All Rights Reserved |"
 
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
@@ -102,25 +85,9 @@ currencySimbol = "€"
 
   # Social Site
   [[params.social]]
-  icon = "ti-facebook"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
-
-  [[params.social]]
   icon = "ti-instagram"
   link = "https://www.instagram.com/kayamania/"
-
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
-
+  
   # Contact Form
   [params.contact]
   formAction = "#" # contact form works with formspree.io

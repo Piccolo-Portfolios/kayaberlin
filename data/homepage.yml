@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Kaya For Berlin"
-  content : "Description here"
+  content : "Type something here"
   image : "images/banner.png"
   # button
   button:
@@ -122,3 +122,9 @@ testimonial:
       designation : "CEO, Dialogue Broad Band"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
       rating : "four" # rating star, one to five
+
+
+########################## Map ########################
+map:
+  enable: true
+  title : "Made with Love in Berlin"

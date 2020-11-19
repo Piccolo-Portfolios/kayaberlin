@@ -33,8 +33,12 @@
           {{ end }}
         </ul>
       </div>
-      <button class="cart snipcart-summary"><a href="" class="snipcart-checkout text-dark"><i class="ti-shopping-cart"></i><span class="badge badge-primary snipcart-total-items"></span></a></button>
-    </nav>
+
+      <!-- social icon -->
+      {{ range site.Params.social }}
+        <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }} text-primary"></i></a></li>
+      {{ end }}
+        
   </div>
 </header>
 {{ "<!-- /navigation -->" | safeHTML }}

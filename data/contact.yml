@@ -1,13 +1,13 @@
 ############################# contact info ################
 contact:
-  enable : true
+  enable : false
   # office
   office:
     title : "Central Office"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
     # other information comes from "config.toml"
 
-  # opennig hour
+  # openning hour
   opennigHour:
     title : "Opening Hours"
     dayTimeList:
@@ -18,7 +18,3 @@ contact:
       - dayTime : "Friday: 9:00 – 19:00"
       - dayTime : "Saturday: 9:00 – 19:00"
       - dayTime : "sunday: 9:00 – 19:00"
-
-####################### google map ########################
-map:
-  enable: true

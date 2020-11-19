@@ -6,6 +6,8 @@
 <section class="section-sm">
   <div class="container">
     <div class="row justify-content-between align-items-center">
+       
+      
        <div class="col-lg-5 col-md-6 order-2 order-md-1">
         <h1>{{ .title | markdownify }}</h1>
         <p>{{ .content | markdownify }}</p>
@@ -20,8 +22,9 @@
         <a data-toggle="modal" data-src="{{ .videoURL | safeURL }}" data-target="#videoModal"
           class="text-color video-modal"><i
             class="ti-control-play bg-gradient hover-shadow btn-play mr-2"></i><span>Watch Video</span></a>
-        {{ end }}
+        {{ end }} 
         <!-- Modal -->
+        
         <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-hidden="true">
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content border-0 rounded-0">
@@ -33,7 +36,7 @@
         </div>
         {{ end }}
       </div> 
-      <div class="col-lg-7 col-md-6 order-1 order-lg-2">
+      <div class="col-lg-7 col-md-6 order-1 order-lg-2 mx-auto">
         <img src="{{ .image | absURL }}" class="img-fluid" alt="">  
       </div>
     </div>
@@ -177,15 +180,13 @@
           </a>
           <div class="card-body">
             <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
-            <p>{{ .Params.Description }}</p>
             <div class="mb-4">
               <span class="lead text-primary">{{ .Params.Price }} {{ site.Params.currencySimbol }}</span>
-              <s>{{ .Params.PriceBefore }} {{ site.Params.currencySimbol }}</s>
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
               {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
-              Add to cart
+              Order
             </button>
           </div>
         </div>
@@ -230,5 +231,7 @@
 {{ if site.Data.homepage.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
+
+
 
 {{ end }}

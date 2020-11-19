@@ -23,14 +23,13 @@
         {{ end }}
         <div class="my-4">
           <span class="lead text-primary font-weight-medium">{{ .Params.Price }} {{ site.Params.currencySimbol }}</span>
-          <s>{{ .Params.PriceBefore }} {{ site.Params.currencySimbol }}</s>
         </div>
         <h5>Short Description</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
-          Add to cart
+          Order
         </button>
       </div>
       <div class="col-12 mt-5">
@@ -38,10 +37,6 @@
           <li class="nav-item mr-3">
             <a class="nav-link active" id="description-tab" data-toggle="tab" href="#description" role="tab"
               aria-controls="description" aria-selected="true">Description</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" id="reviews-tab" data-toggle="tab" href="#reviews" role="tab" aria-controls="reviews"
-              aria-selected="false">Reviews</a>
           </li>
         </ul>
         <div class="tab-content" id="myTabContent">
