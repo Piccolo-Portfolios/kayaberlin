@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://piccolo-portfolios.github.io/kayaberlin/"
 languageCode = "en-us"
 title = "Kaya Mania Berlin"
 theme = "hargo"
