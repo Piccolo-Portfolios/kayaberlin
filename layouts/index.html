@@ -34,7 +34,7 @@
         {{ end }}
       </div>
       <div class="col-lg-7 col-md-6 order-1 order-lg-2">
-        <img src="{{ .image | absURL }}" class="img-fluid" alt="">
+        <img src="{{ .image | absURL }}" class="img-fluid max-height: 30% height: auto" alt="">  
       </div>
     </div>
   </div>
@@ -166,7 +166,7 @@
         <h2>{{ .title | markdownify }}</h2>
         {{ end }}
       </div>
-      {{ range first 6 (where site.RegularPages "Type" "products") }}
+      {{ range first 3 (where site.RegularPages "Type" "products") }}
       <div class="col-lg-4 col-sm-6 mb-4">
         <div class="card border-0 text-center">
           <a href="{{ .Permalink }}">
