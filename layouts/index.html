@@ -43,26 +43,6 @@
 {{ end }}
 <!-- /banner -->
 
-<!-- about -->
-{{ if site.Data.homepage.about.enable }}
-{{ with site.Data.homepage.about }}
-<section class="section">
-  <div class="container">
-    <div class="row justify-content-around align-items-center">
-      <div class="col-lg-5 col-md-6">
-        <img class="img-fluid" src="{{ .image | absURL }}" alt="">
-      </div>
-      <div class="col-md-6 col-lg-5">
-        <h2>{{ .title | markdownify }}</h2>
-        <p>{{ .content | markdownify }}</p>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- /about -->
-
 {{ if site.Data.homepage.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
@@ -97,7 +77,7 @@
 {{ end }}
 <!-- /material -->
 
-<!-- advantage -->
+<!-- Benefits -->
 {{ if site.Data.homepage.advantage.enable }}
 {{ with site.Data.homepage.advantage }}
 <section class="section pb-0">
@@ -195,6 +175,26 @@
 </section>
 {{ end }}
 <!-- /products -->
+
+<!-- about -->
+{{ if site.Data.homepage.about.enable }}
+{{ with site.Data.homepage.about }}
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-around align-items-center">
+      <div class="col-lg-5 col-md-6">
+        <img class="img-fluid" src="{{ .image | absURL }}" alt="">
+      </div>
+      <div class="col-md-6 col-lg-5">
+        <h2>{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /about -->
 
 <!-- testimonial -->
 {{ if site.Data.homepage.testimonial.enable }}
