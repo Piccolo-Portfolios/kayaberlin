@@ -69,22 +69,28 @@ publishDir = "docs"
 [params]
 logo = "images/logo.png"
 home = "Home"
+
 # Meta data
 description = "Handmade Kaya from natural ingredients. Made with Love in Berlin."
 author = "Kaya Mania"
+
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
+
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
+
 # Contact Information
-mobile = "0124857985320"
-email = "kayamania@berlin.de"
-location = "Berlin"
+mobile = ""
+email = "contact@kayamania.de"
+location = "Kreuzberg, Berlin"
+
 # copyright
 copyright = "| Copyright &copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySimbol = "€"
